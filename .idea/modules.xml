@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CarolineHili.iml" filepath="$PROJECT_DIR$/CarolineHili.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-backoffice/web-backoffice.iml" filepath="$PROJECT_DIR$/web-backoffice/web-backoffice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-client/web-client.iml" filepath="$PROJECT_DIR$/web-client/web-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-endpoint/web-endpoint.iml" filepath="$PROJECT_DIR$/web-endpoint/web-endpoint.iml" />
+    </modules>
+  </component>
+</project>
+
